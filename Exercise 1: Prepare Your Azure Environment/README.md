@@ -1,4 +1,4 @@
-# Deploy and Configure Azure Monitor - Exercise 1: Prepare Your Azure Environment
+# Exercise 1: Prepare Your Azure Environment
 
 This exercise focuses on preparing your Azure environment for subsequent tasks related to deploying and configuring Azure Monitor. Follow the instructions below to complete the tasks outlined.
 
