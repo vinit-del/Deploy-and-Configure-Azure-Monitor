@@ -1,4 +1,4 @@
-# Exercise 1: Prepare Your Azure Environment
+# Exercise 0: Prepare Your Azure Environment
 
 This exercise focuses on preparing your Azure environment for subsequent tasks related to deploying and configuring Azure Monitor. Follow the instructions below to complete the tasks outlined.
 
@@ -47,6 +47,7 @@ Before starting the tasks, ensure you have global administrator permissions to a
    - **Administrator account:** Enter "prime".
    - **Password:** Enter a secure password.
    - **Inbound ports:** Enable RDP (3389).
+
 4. Review the settings and click on **Create**.
 5. Wait for the deployment to complete, then navigate to the VM's properties page.
 6. Under Networking, select the RDP rule and change the Source to "My IP address". Save the changes.

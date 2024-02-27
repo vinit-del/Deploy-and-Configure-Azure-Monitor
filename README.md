@@ -9,11 +9,11 @@ Welcome to the Deploy and Configure Azure Monitor Hands-On project repository! T
 ## Project Structure:
 The project is structured into comprehensive exercises, each focusing on different aspects of deploying and configuring Azure Monitor:
 
-1. **Exercise 1: Prepare Your Azure Environment**
-2. **Exercise 2: Deploy Log Analytics**
-3. **Exercise 3: Monitor Web Apps**
-4. **Exercise 4: Configure Monitoring for Compute Services**
-5. **Exercise 5: Configure Alerts**
+1. **Exercise 0: Prepare Your Azure Environment**
+2. **Exercise 1: Deploy Log Analytics**
+3. **Exercise 2: Monitor Web Apps**
+4. **Exercise 3: Configure Monitoring for Compute Services**
+5. **Exercise 4: Configure Alerts**
 
 ## Navigating Through the Exercises:
 Each exercise provides a series of tasks to be completed sequentially. Navigate to the corresponding exercise directory and follow the instructions provided in the markdown files for each task.
